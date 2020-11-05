@@ -34,7 +34,9 @@ function App() {
           user: null,
         });
       }
+      
     });
+    
   }, []);
 
   return (
